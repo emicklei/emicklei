@@ -1,0 +1,9 @@
+{
+    "me": {
+        "projectID": "xs4me-155615",
+        "location": "global",
+        "keyring": "kiya-keyring",
+        "cryptoKey": "kiya-cryptokey",
+        "bucket": "xs4me-kiya-secrets"
+    }
+}
