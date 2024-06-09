@@ -1,4 +1,4 @@
-### what's keeping me busy lately [updated 2023-12-26]
+### what's keeping me busy lately [updated 2024-06-09]
 
 - [varvoy - go debugger](https://github.com/emicklei/varvoy)
 - [nanny - remote debug log inspection](https://github.com/emicklei/nanny)
