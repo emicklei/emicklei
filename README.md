@@ -1,4 +1,4 @@
-### what's keeping me busy lately [updated 2024-06-16]
+### what's keeping me busy lately [updated 2024-12-06]
 
-- [structexplorer - go variable browser](https://github.com/emicklei/structexplorer)
+- [protocheck](https://github.com/emicklei/protocheck)
 - [varvoy - go debugger](https://github.com/emicklei/varvoy)
