@@ -1,5 +1,5 @@
-### what's keeping me busy lately [updated 2025-01-10]
+### what's keeping me busy lately [updated 2025-02-21]
 
-- [nls](https://github.com/emicklei/nls)
+- [recall](https://github.com/emicklei/recall)
 - [protocheck](https://github.com/emicklei/protocheck)
 - [varvoy - go debugger](https://github.com/emicklei/varvoy)
