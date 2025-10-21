@@ -1,6 +1,6 @@
 ### what's keeping me busy lately [updated 2025-10-06]
 
-- [fluxflow](https://github.com/emicklei/fluxflow)
-- [melrose-mcp](https://github.com/emicklei/melrose-mcp)
-- [mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy)
-- [protocheck](https://github.com/emicklei/protocheck)
+- [gi -  a Go interpreter](https://github.com/emicklei/gi)
+- [melrose-mcp - AI music](https://github.com/emicklei/melrose-mcp)
+- [mcp-log-proxy - MCP tool](https://github.com/emicklei/mcp-log-proxy)
+- [protocheck - protobuf validator](https://github.com/emicklei/protocheck)
