@@ -1,4 +1,4 @@
-### what's keeping me busy lately [updated 2025-10-06]
+### what's keeping me busy lately [updated 2025-10-21]
 
 - [gi -  a Go interpreter](https://github.com/emicklei/gi)
 - [melrose-mcp - AI music](https://github.com/emicklei/melrose-mcp)
